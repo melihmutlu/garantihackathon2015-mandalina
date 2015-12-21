@@ -1,0 +1,44 @@
+[ 
+	{
+        "title": "sonsuzluk",
+        "keyword": [
+            "sonsuzluk"
+        ]
+    },
+	{
+        "title": "çizgili",
+        "keyword": [
+            "cizgili"
+        ]
+    },
+	{
+        "title": "kareli",
+        "keyword": [
+            "kare"
+        ]
+    },
+	{
+        "title": "kalp",
+        "keyword": [
+            "kalp"
+        ]
+    },
+	{
+        "title": "damalı",
+        "keyword": [
+            "damali"
+        ]
+    },
+	{
+        "title": "yuvarlak",
+        "keyword": [
+            "yuvarlak"
+        ]
+    },
+	{
+        "title": "sivri",
+        "keyword": [
+            "sivri"
+        ]
+    },
+]

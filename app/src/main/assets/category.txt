@@ -1,0 +1,367 @@
+[
+    {
+        "title": "vazo",
+        "keyword": [
+            "cicek",
+            "vazo",
+            "lale",
+            "gul"
+        ]
+    },
+    {
+        "title": "bileklik",
+        "keyword": [
+			"bileklik",
+			"bilezik"
+        ]
+    },
+    {
+        "title": "kulaklık",
+        "keyword": [
+			"kulaklik"
+        ]
+    },
+    {
+        "title": "macbook pro",
+        "keyword": [
+			"macbook pro"
+        ]
+    },
+    {
+        "title": "macbook air",
+        "keyword": [
+			"macbook air"
+        ]
+    },
+    {
+        "title": "macbook",
+        "keyword": [
+			"macbook"
+        ]
+    },
+    {
+        "title": "iphone 4s",
+        "keyword": [
+			"iphone 4s"
+        ]
+    },
+    {
+        "title": "iphone 5s",
+        "keyword": [
+			"iphone 5s"
+        ]
+    },
+    {
+        "title": "iphone 5",
+        "keyword": [
+			"iphone 5"
+        ]
+    },
+    {
+        "title": "iphone 6 plus",
+        "keyword": [
+			"iphone 6 plus",
+			"iphone 6 arti"
+        ]
+    },
+    {
+        "title": "iphone 6",
+        "keyword": [
+			"iphone 6"
+        ]
+    },
+    {
+        "title": "iphone",
+        "keyword": [
+			"iphone"
+        ]
+    },
+    {
+        "title": "çanta",
+        "keyword": [
+            "canta",
+            "beymen",
+            "sirt",
+            "pierra",
+            "omuz",
+            "emlak"
+        ]
+    },
+    {
+        "title": "ayakkabı",
+        "keyword": [
+            "ayakkabi",
+            "kundura",
+            "sandalet"
+        ]
+    },
+    {
+        "title": "babet",
+        "keyword": [
+            "babet"
+        ]
+    },
+    {
+        "title": "terlik",
+        "keyword": [
+            "terlik"
+        ]
+    },
+    {
+        "title": "bot",
+        "keyword": [
+            "bot"
+        ]
+    },
+    {
+        "title": "sweatshirt",
+        "keyword": [
+            "sweatshirt",
+            "suveter",
+            "ince",
+            "kapson",
+            "kapsonlu"
+        ]
+    },
+    {
+        "title": "laptop",
+        "keyword": [
+            "laptop",
+            "dizustu",
+            "netbook",
+            "asus",
+            "toshiba",
+            "acer",
+            "hp",
+            "lenova"
+        ]
+    },
+    {
+        "title": "ceket",
+        "keyword": [
+            "ceket",
+            "jacket",
+            "classic"
+        ]
+    },
+    {
+        "title": "eşofman",
+        "keyword": [
+            "esofman",
+            "spor",
+            "sport",
+            "adidas",
+            "nike",
+            "puma",
+            "hummel",
+            "fitness",
+            "kosu"
+        ]
+    },
+    {
+        "title": "gömlek",
+        "keyword": [
+            "gomlek",
+            "casual",
+            "classic",
+            "polo"
+        ]
+    },
+    {
+        "title": "pantolon",
+        "keyword": [
+            "pantolon",
+            "pantalon",
+            "dar"
+        ]
+    },
+    {
+        "title": "kot pantolon",
+        "keyword": [
+            "kot",
+            "jean",
+            "pantolon",
+            "dar"
+        ]
+    },
+    {
+        "title": "suluk",
+        "keyword": [
+            "suluk",
+            "matara",
+            "tupperware",
+            "pasabahce"
+        ]
+    },
+    {
+        "title": "sandalye",
+        "keyword": [
+            "sandalye",
+            "oturak",
+            "dort",
+            "ofis"
+        ]
+    },
+    {
+        "title": "elbise",
+        "keyword": [
+            "gece",
+            "elbise"
+        ]
+    },
+    {
+        "title": "etek",
+        "keyword": [
+            "etek",
+            "dizalti",
+            "uzun",
+            "beymen",
+            "casual"
+        ]
+    },
+    {
+        "title": "bluz",
+        "keyword": [
+            "bluz",
+            "blouse",
+            "bogazli",
+            "yaka",
+            "mango",
+            "koton",
+            "ozone"
+        ]
+    },
+    {
+        "title": "kazak",
+        "keyword": [
+            "kazak",
+            "suveter",
+            "hirka",
+            "kazak",
+            "sonbahar",
+            "kis",
+            "yaka",
+            "triko",
+            "polar",
+            "uzun",
+            "kollu"
+        ]
+    },
+    {
+        "title": "tişört",
+        "keyword": [
+            "t-shirt",
+            "t",
+            "shirt",
+            "tshirt",
+            "tisort",
+            "yaka",
+            "polo",
+            "kisa",
+            "kollu"
+        ]
+    },
+    {
+        "title": "tablet",
+        "keyword": [
+            "samsung",
+            "ipad",
+            "tablet",
+            "acer",
+            "wifi",
+            "wi-fi",
+            "3g",
+            "sd",
+            "bluetooth"
+        ]
+    },
+    {
+        "title": "saat",
+        "keyword": [
+            "saat",
+            "kol",
+            "duvar",
+            "sporcu",
+            "casio",
+            "fossil",
+            "seiko",
+            "diesel",
+            "su",
+            "gecirmez"
+        ]
+    },
+    {
+        "title": "kalem",
+        "keyword": [
+            "kalem",
+            "tukenmez",
+            "kursun",
+            "dolma",
+            "keceli",
+            "murekkep",
+            "fosforlu",
+            "set",
+            "faber",
+            "castel",
+            "rotring",
+            "igne",
+            "uclu",
+            "0,7",
+            "0,5"
+        ]
+    },
+    {
+        "title": "cep telefonu",
+        "keyword": [
+            "telefon",
+            "s3",
+            "samsung",
+            "apple",
+            "iphone",
+            "lg",
+            "sony",
+            "htc",
+            "huawei",
+            "android",
+            "blackberry",
+            "nokia",
+            "g2",
+            "g3",
+            "g4",
+            "xperia",
+            "akilli",
+            "android",
+            "s3",
+            "s4",
+            "s5",
+            "s6",
+            "ios",
+            "sd",
+            "cep",
+            "s4",
+            "s5",
+            "s6"
+        ]
+    },
+    {
+        "title": "televizyon",
+        "keyword": [
+            "televizyon",
+            "led",
+            "lcd",
+            "plazma",
+            "tv",
+            "tuplu",
+            "vestel",
+            "samsung",
+            "lg",
+            "philips",
+            "sunny",
+            "sony",
+            "curved",
+            "full",
+            "hd",
+            "uydu"
+        ]
+    }
+]

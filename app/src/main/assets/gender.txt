@@ -1,0 +1,16 @@
+[
+    {
+        "title": "kadın",
+        "keyword": [
+            "kadin",
+            "kadinlar"
+        ]
+    },
+    {
+        "title": "erkek",
+        "keyword": [
+            "erkek",
+            "erkekler"
+        ]
+    }
+]

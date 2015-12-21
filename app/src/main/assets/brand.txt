@@ -1,0 +1,85 @@
+[ {
+        "title": "apple",
+        "keyword": [
+            "apple",
+            "iphone",
+            "macbook",
+            "ipad"
+        ]
+    },
+    {
+        "title": "msi",
+        "keyword": [
+            "msi"
+        ]
+    },
+    {
+        "title": "koton",
+        "keyword": [
+            "koton"
+        ]
+    },
+    {
+        "title": "ibm",
+        "keyword": [
+			"ibm"
+        ]
+    },
+    {
+        "title": "hp",
+        "keyword": [
+			"hp"
+        ]
+    },
+    {
+        "title": "philips",
+        "keyword": [
+			"philips"
+        ]
+    },
+    {
+        "title": "toshiba",
+        "keyword": [
+			"toshiba"
+        ]
+    },
+    {
+        "title": "samsung",
+        "keyword": [
+			"samsung",
+			"s4",
+			"s5",
+			"s6",
+			"s3",
+			"galaxy"
+        ]
+    },
+   	{
+        "title": "samsung s6",
+        "keyword": [
+			"s6",
+			"samsung"
+        ]
+    },
+   	{
+        "title": "samsung s5",
+        "keyword": [
+			"s5",
+			"samsung"
+        ]
+    },
+   	{
+        "title": "samsung s4",
+        "keyword": [
+			"s4",
+			"samsung"
+        ]
+    },
+   	{
+        "title": "samsung s3",
+        "keyword": [
+			"s3",
+			"samsung"
+        ]
+    }
+]

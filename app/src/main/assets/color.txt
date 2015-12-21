@@ -1,0 +1,103 @@
+[ {
+        "title": "kırmızı",
+        "keyword": [
+            "kirmizi"
+        ]
+    }, 
+    {
+        "title": "mavi",
+        "keyword": [
+            "mavi"
+        ]
+    },
+    {
+        "title": "yeşil",
+        "keyword": [
+            "yesil"
+        ]
+    }, 
+    {
+        "title": "sarı",
+        "keyword": [
+            "sari"
+        ]
+    }, 
+    {
+        "title": "siyah",
+        "keyword": [
+            "siyah"
+        ]
+    }, 
+    {
+        "title": "beyaz",
+        "keyword": [
+            "beyaz"
+        ]
+    }, 
+    {
+        "title": "kahverengi",
+        "keyword": [
+            "kahverengi"
+        ]
+    }, 
+    {
+        "title": "mor",
+        "keyword": [
+            "mor"
+        ]
+    }, 
+    {
+        "title": "pembe",
+        "keyword": [
+            "pembe"
+        ]
+    }, 
+    {
+        "title": "altın sarısı",
+        "keyword": [
+            "altin sarisi"
+        ]
+    }, 
+    {
+        "title": "gri",
+        "keyword": [
+            "gri"
+        ]
+    }, 
+    {
+        "title": "gümüş",
+        "keyword": [
+            "gumus"
+        ]
+    }, 
+    {
+        "title": "zeytin yeşili",
+        "keyword": [
+            "zeytin yesili"
+        ]
+    }, 
+    {
+        "title": "bej",
+        "keyword": [
+            "bej"
+        ]
+    }, 
+    {
+        "title": "turkuaz",
+        "keyword": [
+            "turkuaz"
+        ]
+    }, 
+    {
+        "title": "lacivert",
+        "keyword": [
+            "lacivert"
+        ]
+    }, 
+    {
+        "title": "turuncu",
+        "keyword": [
+            "turuncu"
+        ]
+    }
+]
